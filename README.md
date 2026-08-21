@@ -25,7 +25,6 @@
 [![Experience](https://img.shields.io/badge/Experience-151515?style=flat-square&logoColor=white&color=151515)](#experience)
 [![Projects](https://img.shields.io/badge/Projects-151515?style=flat-square&logoColor=white&color=151515)](#projects)
 [![Skills](https://img.shields.io/badge/Skills-151515?style=flat-square&logoColor=white&color=151515)](#skills)
-[![Analytics](https://img.shields.io/badge/Analytics-151515?style=flat-square&logoColor=white&color=151515)](#analytics)
 [![Connect](https://img.shields.io/badge/Connect-151515?style=flat-square&logoColor=white&color=151515)](#connect)
 
 </div>
@@ -63,16 +62,10 @@ I work across full-stack development, AI applications, and cloud-native workflow
 
 <table width="100%">
 <tr>
-<td width="38%" align="center" valign="top">
-<table width="86%" cellpadding="6" cellspacing="0" bgcolor="#1A1A1A">
-<tr>
-<td align="center">
-<img src="./assets/experience/amazon/amazon-cover.jpg" width="100%" alt="Amazon internship" />
+<td width="26%" align="center" valign="top">
+<img src="./assets/experience/amazon/amazon-cover.jpg" width="160" height="160" alt="Amazon internship" style="border-radius:50%; object-fit:cover; border:3px solid #DC2626;" />
 </td>
-</tr>
-</table>
-</td>
-<td width="62%" valign="top">
+<td width="74%" valign="top">
 
 **Software Development Engineer Intern - Amazon**  
 `May 2026 - Jul 2026 | Chennai, India`
@@ -89,16 +82,10 @@ Engineered Java/Scala data services and supported AWS workflow improvements, con
 
 <table width="100%">
 <tr>
-<td width="38%" align="center" valign="top">
-<table width="72%" cellpadding="6" cellspacing="0" bgcolor="#1A1A1A">
-<tr>
-<td align="center">
-<img src="./assets/experience/zoho/zoho-cover.jpg" width="100%" alt="Zoho internship" />
+<td width="26%" align="center" valign="top">
+<img src="./assets/experience/zoho/zoho-cover.jpg" width="145" height="145" alt="Zoho internship" style="border-radius:50%; object-fit:cover; border:3px solid #DC2626;" />
 </td>
-</tr>
-</table>
-</td>
-<td width="62%" valign="top">
+<td width="74%" valign="top">
 
 **DevOps Engineer Intern - Zoho Corporation**  
 `Nov 2025 - Dec 2025 | Chennai, India`
@@ -121,16 +108,6 @@ Built Python executables and optimized Site24x7 agent configurations to improve 
 - [AI-Driven Prosthetic Hand System](https://github.com/Mariamegha/AI-Driven-Prosthetic-Hand-System): Implemented EMG-based control logic and simulation for faster prototyping and validation.
 - [Prepmate AI](https://github.com/Mariamegha/Prepmate_AI): Delivered an interview preparation app with guided practice and AI-assisted feedback loops.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariamegha&repo=Cloud-Cycle&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=F5F5F5&icon_color=DC2626" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariamegha&repo=Urban_Noise_Mapper&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=F5F5F5&icon_color=DC2626" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariamegha&repo=AI-Driven-Prosthetic-Hand-System&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=F5F5F5&icon_color=DC2626" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mariamegha&repo=Prepmate_AI&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=F5F5F5&icon_color=DC2626" />
-
-</div>
-
 ---
 
 ## Competitive Programming
@@ -139,22 +116,6 @@ Built Python executables and optimized Site24x7 agent configurations to improve 
 - **CodeChef:** 180+ solved, highest rating 1027
 - **Codeforces:** 570+ solved with consistent contest participation
 - **SkillRack:** 272 solved programs
-
----
-
-<a id="analytics"></a>
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mariamegha&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=DC2626&text_color=F5F5F5" height="170" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamegha&theme=dark&hide_border=true&background=0A0A0A&ring=DC2626&fire=EF4444&currStreakLabel=EF4444" height="170" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariamegha&bg_color=0A0A0A&color=F5F5F5&line=EF4444&point=DC2626&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph" />
-
-</div>
 
 ---
 
