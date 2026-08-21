@@ -33,18 +33,26 @@ I build production-focused full-stack products, AI-assisted applications, and cl
 
 ## Tech Stack
 
-<div align="center">
-	<img src="https://cdn.simpleicons.org/python/D4D4D8" height="24" alt="Python" />
-	<img src="https://cdn.simpleicons.org/java/D4D4D8" height="24" alt="Java" />
-	<img src="https://cdn.simpleicons.org/javascript/D4D4D8" height="24" alt="JavaScript" />
-	<img src="https://cdn.simpleicons.org/typescript/D4D4D8" height="24" alt="TypeScript" />
-	<img src="https://cdn.simpleicons.org/react/D4D4D8" height="24" alt="React" />
-	<img src="https://cdn.simpleicons.org/nodedotjs/D4D4D8" height="24" alt="Node.js" />
-	<img src="https://cdn.simpleicons.org/fastapi/D4D4D8" height="24" alt="FastAPI" />
-	<img src="https://cdn.simpleicons.org/postgresql/D4D4D8" height="24" alt="PostgreSQL" />
-	<img src="https://cdn.simpleicons.org/mongodb/D4D4D8" height="24" alt="MongoDB" />
-	<img src="https://cdn.simpleicons.org/amazonaws/D4D4D8" height="24" alt="AWS" />
-</div>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=EF4444)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=EF4444)
+![C++](https://img.shields.io/badge/C++-0A0A0A?style=flat-square&logo=cplusplus&logoColor=EF4444)
+![C](https://img.shields.io/badge/C-0A0A0A?style=flat-square&logo=c&logoColor=EF4444)
+![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=EF4444)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=EF4444)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=EF4444)
+
+**Frameworks and Tools**
+
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=EF4444)
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=EF4444)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=EF4444)
+![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=EF4444)
+![Flask](https://img.shields.io/badge/Flask-0A0A0A?style=flat-square&logo=flask&logoColor=EF4444)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=flat-square&logo=mongodb&logoColor=EF4444)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=EF4444)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonaws&logoColor=EF4444)
 
 ---
 
@@ -104,11 +112,11 @@ Built Python executables and optimized monitoring-agent configuration for effici
 
 ## Featured Projects
 
-- [Cloud-Cycle](https://github.com/Mariamegha/Cloud-Cycle): Built a reporting workflow for cycling infrastructure issues, improving how civic feedback is captured and tracked.
-- [Urban Noise Mapper](https://github.com/Mariamegha/Urban_Noise_Mapper): Developed an AI-assisted mapping pipeline to convert noise data into location-based decision insights.
-- [AI-Driven Prosthetic Hand System](https://github.com/Mariamegha/AI-Driven-Prosthetic-Hand-System): Implemented an EMG-driven control prototype with simulation support for faster iteration and evaluation.
-- [Prepmate AI](https://github.com/Mariamegha/Prepmate_AI): Delivered a mobile interview-prep assistant focused on structured practice, feedback, and consistency.
-- [EDUMITE](https://github.com/Mariamegha): Designed an adaptive learning concept centered on personalized tutoring flows and learner progress visibility.
+- [Cloud-Cycle](https://github.com/Mariamegha/Cloud-Cycle): Cycling infrastructure reporting platform
+- [Urban Noise Mapper](https://github.com/Mariamegha/Urban_Noise_Mapper): AI-powered noise pollution mapping
+- [AI-Driven Prosthetic Hand System](https://github.com/Mariamegha/AI-Driven-Prosthetic-Hand-System): EMG-based control and simulation
+- [Prepmate AI](https://github.com/Mariamegha/Prepmate_AI): Interview preparation mobile app
+- [EDUMITE](https://github.com/Mariamegha): Adaptive tutoring platform
 
 ---
 
