@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1100&color=EF4444&center=true&vCenter=true&width=920&height=44&lines=Building+Scalable+Full-Stack+and+AI+Products;SDE+Intern+at+Amazon+%C2%B7+DevOps+Intern+at+Zoho;LeetCode+Top+11.63%25+Globally+%C2%B7+700%2B+Solved" alt="Rotating summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1100&color=EF4444&center=true&vCenter=true&width=920&height=44&lines=Building+Scalable+Full-Stack+and+AI+Products;SDE+Intern+at+Amazon+%C2%B7+DevOps+Intern+at+Zoho;LeetCode+Top+9.72%25+Globally+%C2%B7+700%2B+Solved" alt="Rotating summary" />
 
 <br/><br/>
 
