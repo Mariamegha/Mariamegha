@@ -1,69 +1,69 @@
 <svg width="620" height="230" viewBox="0 0 620 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="cardbg11" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1A0B2E"/>
-      <stop offset="100%" stop-color="#05010D"/>
+      <stop offset="0%" stop-color="#0B1B3A"/>
+      <stop offset="100%" stop-color="#020617"/>
     </linearGradient>
     <radialGradient id="glow11" cx="85%" cy="10%" r="60%">
-      <stop offset="0%" stop-color="#9D4EDD" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#9D4EDD" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="620" height="230" rx="18" fill="url(#cardbg11)"/>
   <rect width="620" height="230" rx="18" fill="url(#glow11)"/>
-  <rect width="620" height="230" rx="18" fill="none" stroke="#9D4EDD" stroke-opacity="0.45" stroke-width="1.3"/>
-  <circle cx="280.5" cy="128.7" r="1.50" fill="#F4EEFF" opacity="0.58"/>
-<circle cx="314.9" cy="135.1" r="0.54" fill="#F4EEFF" opacity="0.61"/>
-<circle cx="390.5" cy="182.4" r="0.42" fill="#F4EEFF" opacity="0.46"/>
-<circle cx="56.2" cy="186.2" r="1.20" fill="#F4EEFF" opacity="0.28"/>
-<circle cx="609.0" cy="221.9" r="1.15" fill="#F4EEFF" opacity="0.68"/>
-<circle cx="97.6" cy="3.5" r="0.99" fill="#F4EEFF" opacity="0.29"/>
-<circle cx="117.9" cy="55.6" r="0.34" fill="#F4EEFF" opacity="0.57"/>
-<circle cx="273.1" cy="193.8" r="0.97" fill="#F4EEFF" opacity="0.70"/>
-<circle cx="309.9" cy="152.4" r="0.89" fill="#F4EEFF" opacity="0.44"/>
-<circle cx="618.5" cy="229.0" r="1.39" fill="#F4EEFF" opacity="0.75"/>
-<circle cx="195.5" cy="52.8" r="0.68" fill="#F4EEFF" opacity="0.30"/>
-<circle cx="475.1" cy="92.1" r="1.40" fill="#F4EEFF" opacity="0.52"/>
-<circle cx="594.0" cy="194.9" r="0.30" fill="#F4EEFF" opacity="0.40"/>
-<circle cx="564.4" cy="108.1" r="1.57" fill="#F4EEFF" opacity="0.53"/>
-<circle cx="45.3" cy="144.8" r="1.31" fill="#F4EEFF" opacity="0.44"/>
-<circle cx="54.0" cy="76.5" r="1.55" fill="#F4EEFF" opacity="0.78"/>
-<circle cx="73.2" cy="56.7" r="0.43" fill="#F4EEFF" opacity="0.29"/>
-<circle cx="494.2" cy="40.9" r="1.03" fill="#F4EEFF" opacity="0.56"/>
-<circle cx="118.2" cy="168.3" r="0.47" fill="#F4EEFF" opacity="0.70"/>
-<circle cx="72.2" cy="96.8" r="0.58" fill="#F4EEFF" opacity="0.44"/>
-<circle cx="602.0" cy="184.8" r="0.70" fill="#F4EEFF" opacity="0.87"/>
-<circle cx="130.6" cy="90.7" r="1.41" fill="#F4EEFF" opacity="0.70"/>
-<circle cx="62.2" cy="227.5" r="0.58" fill="#F4EEFF" opacity="0.43"/>
-<circle cx="479.1" cy="75.7" r="0.69" fill="#F4EEFF" opacity="0.30"/>
-<circle cx="55.9" cy="134.0" r="0.62" fill="#F4EEFF" opacity="0.67"/>
-<circle cx="230.5" cy="104.2" r="1.55" fill="#F4EEFF" opacity="0.59"/>
-<circle cx="356.2" cy="199.3" r="0.54" fill="#F4EEFF" opacity="0.36"/>
-<circle cx="563.2" cy="188.1" r="0.62" fill="#F4EEFF" opacity="0.38"/>
-<circle cx="458.4" cy="216.3" r="0.56" fill="#F4EEFF" opacity="0.92"/>
-<circle cx="547.0" cy="138.8" r="0.85" fill="#F4EEFF" opacity="0.32"/>
-<circle cx="24.0" cy="221.4" r="0.61" fill="#F4EEFF" opacity="0.74"/>
-<circle cx="159.3" cy="189.5" r="1.08" fill="#F4EEFF" opacity="0.46"/>
-<circle cx="108.8" cy="165.7" r="0.39" fill="#F4EEFF" opacity="0.41"/>
-<circle cx="346.8" cy="196.1" r="1.10" fill="#F4EEFF" opacity="0.45"/>
-<circle cx="568.8" cy="46.9" r="0.32" fill="#F4EEFF" opacity="0.44"/>
-<circle cx="276.3" cy="13.9" r="0.53" fill="#F4EEFF" opacity="0.51"/>
-<circle cx="354.7" cy="30.3" r="0.77" fill="#F4EEFF" opacity="0.87"/>
-<circle cx="607.9" cy="151.1" r="1.20" fill="#F4EEFF" opacity="0.66"/>
-<circle cx="87.0" cy="8.1" r="0.32" fill="#F4EEFF" opacity="0.89"/>
-<circle cx="434.6" cy="221.4" r="0.33" fill="#F4EEFF" opacity="0.70"/>
-<circle cx="299.0" cy="168.0" r="0.71" fill="#F4EEFF" opacity="0.95"/>
-<circle cx="46.7" cy="125.6" r="1.26" fill="#F4EEFF" opacity="0.88"/>
-<circle cx="457.0" cy="161.8" r="1.33" fill="#F4EEFF" opacity="0.89"/>
-<circle cx="218.1" cy="157.6" r="1.47" fill="#F4EEFF" opacity="0.86"/>
-<circle cx="258.6" cy="181.8" r="1.42" fill="#F4EEFF" opacity="0.65"/>
-  <text x="32" y="52" font-family="Segoe UI, Verdana, sans-serif" font-size="24" font-weight="700" fill="#F4EEFF">🚴  CloudCycle</text>
-  <text x="32" y="90" font-family="Segoe UI, Verdana, sans-serif" font-size="14" fill="#A9A1C4">Cycling-infrastructure reporting platform — citizens report hazards,</text>
-<text x="32" y="112" font-family="Segoe UI, Verdana, sans-serif" font-size="14" fill="#A9A1C4">officials track and resolve them in real time.</text>
+  <rect width="620" height="230" rx="18" fill="none" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1.3"/>
+  <circle cx="280.5" cy="128.7" r="1.50" fill="#E2E8F0" opacity="0.58"/>
+<circle cx="314.9" cy="135.1" r="0.54" fill="#E2E8F0" opacity="0.61"/>
+<circle cx="390.5" cy="182.4" r="0.42" fill="#E2E8F0" opacity="0.46"/>
+<circle cx="56.2" cy="186.2" r="1.20" fill="#E2E8F0" opacity="0.28"/>
+<circle cx="609.0" cy="221.9" r="1.15" fill="#E2E8F0" opacity="0.68"/>
+<circle cx="97.6" cy="3.5" r="0.99" fill="#E2E8F0" opacity="0.29"/>
+<circle cx="117.9" cy="55.6" r="0.34" fill="#E2E8F0" opacity="0.57"/>
+<circle cx="273.1" cy="193.8" r="0.97" fill="#E2E8F0" opacity="0.70"/>
+<circle cx="309.9" cy="152.4" r="0.89" fill="#E2E8F0" opacity="0.44"/>
+<circle cx="618.5" cy="229.0" r="1.39" fill="#E2E8F0" opacity="0.75"/>
+<circle cx="195.5" cy="52.8" r="0.68" fill="#E2E8F0" opacity="0.30"/>
+<circle cx="475.1" cy="92.1" r="1.40" fill="#E2E8F0" opacity="0.52"/>
+<circle cx="594.0" cy="194.9" r="0.30" fill="#E2E8F0" opacity="0.40"/>
+<circle cx="564.4" cy="108.1" r="1.57" fill="#E2E8F0" opacity="0.53"/>
+<circle cx="45.3" cy="144.8" r="1.31" fill="#E2E8F0" opacity="0.44"/>
+<circle cx="54.0" cy="76.5" r="1.55" fill="#E2E8F0" opacity="0.78"/>
+<circle cx="73.2" cy="56.7" r="0.43" fill="#E2E8F0" opacity="0.29"/>
+<circle cx="494.2" cy="40.9" r="1.03" fill="#E2E8F0" opacity="0.56"/>
+<circle cx="118.2" cy="168.3" r="0.47" fill="#E2E8F0" opacity="0.70"/>
+<circle cx="72.2" cy="96.8" r="0.58" fill="#E2E8F0" opacity="0.44"/>
+<circle cx="602.0" cy="184.8" r="0.70" fill="#E2E8F0" opacity="0.87"/>
+<circle cx="130.6" cy="90.7" r="1.41" fill="#E2E8F0" opacity="0.70"/>
+<circle cx="62.2" cy="227.5" r="0.58" fill="#E2E8F0" opacity="0.43"/>
+<circle cx="479.1" cy="75.7" r="0.69" fill="#E2E8F0" opacity="0.30"/>
+<circle cx="55.9" cy="134.0" r="0.62" fill="#E2E8F0" opacity="0.67"/>
+<circle cx="230.5" cy="104.2" r="1.55" fill="#E2E8F0" opacity="0.59"/>
+<circle cx="356.2" cy="199.3" r="0.54" fill="#E2E8F0" opacity="0.36"/>
+<circle cx="563.2" cy="188.1" r="0.62" fill="#E2E8F0" opacity="0.38"/>
+<circle cx="458.4" cy="216.3" r="0.56" fill="#E2E8F0" opacity="0.92"/>
+<circle cx="547.0" cy="138.8" r="0.85" fill="#E2E8F0" opacity="0.32"/>
+<circle cx="24.0" cy="221.4" r="0.61" fill="#E2E8F0" opacity="0.74"/>
+<circle cx="159.3" cy="189.5" r="1.08" fill="#E2E8F0" opacity="0.46"/>
+<circle cx="108.8" cy="165.7" r="0.39" fill="#E2E8F0" opacity="0.41"/>
+<circle cx="346.8" cy="196.1" r="1.10" fill="#E2E8F0" opacity="0.45"/>
+<circle cx="568.8" cy="46.9" r="0.32" fill="#E2E8F0" opacity="0.44"/>
+<circle cx="276.3" cy="13.9" r="0.53" fill="#E2E8F0" opacity="0.51"/>
+<circle cx="354.7" cy="30.3" r="0.77" fill="#E2E8F0" opacity="0.87"/>
+<circle cx="607.9" cy="151.1" r="1.20" fill="#E2E8F0" opacity="0.66"/>
+<circle cx="87.0" cy="8.1" r="0.32" fill="#E2E8F0" opacity="0.89"/>
+<circle cx="434.6" cy="221.4" r="0.33" fill="#E2E8F0" opacity="0.70"/>
+<circle cx="299.0" cy="168.0" r="0.71" fill="#E2E8F0" opacity="0.95"/>
+<circle cx="46.7" cy="125.6" r="1.26" fill="#E2E8F0" opacity="0.88"/>
+<circle cx="457.0" cy="161.8" r="1.33" fill="#E2E8F0" opacity="0.89"/>
+<circle cx="218.1" cy="157.6" r="1.47" fill="#E2E8F0" opacity="0.86"/>
+<circle cx="258.6" cy="181.8" r="1.42" fill="#E2E8F0" opacity="0.65"/>
+  <text x="32" y="52" font-family="Segoe UI, Verdana, sans-serif" font-size="24" font-weight="700" fill="#E2E8F0">🚴  CloudCycle</text>
+  <text x="32" y="90" font-family="Segoe UI, Verdana, sans-serif" font-size="14" fill="#94A3B8">Cycling-infrastructure reporting platform — citizens report hazards,</text>
+<text x="32" y="112" font-family="Segoe UI, Verdana, sans-serif" font-size="14" fill="#94A3B8">officials track and resolve them in real time.</text>
 
-  <rect x="32" y="176" width="52" height="26" rx="13" fill="#1A0B2E" stroke="#9D4EDD" stroke-opacity="0.6"/>
-<text x="58" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#C77DFF" text-anchor="middle">React</text><rect x="94" y="176" width="88" height="26" rx="13" fill="#1A0B2E" stroke="#9D4EDD" stroke-opacity="0.6"/>
-<text x="138" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#C77DFF" text-anchor="middle">TypeScript</text><rect x="192" y="176" width="74" height="26" rx="13" fill="#1A0B2E" stroke="#9D4EDD" stroke-opacity="0.6"/>
-<text x="229" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#C77DFF" text-anchor="middle">Tailwind</text><rect x="276" y="176" width="81" height="26" rx="13" fill="#1A0B2E" stroke="#9D4EDD" stroke-opacity="0.6"/>
-<text x="316" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#C77DFF" text-anchor="middle">shadcn/ui</text>
+  <rect x="32" y="176" width="52" height="26" rx="13" fill="#0B1B3A" stroke="#7C3AED" stroke-opacity="0.6"/>
+<text x="58" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#EC4899" text-anchor="middle">React</text><rect x="94" y="176" width="88" height="26" rx="13" fill="#0B1B3A" stroke="#7C3AED" stroke-opacity="0.6"/>
+<text x="138" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#EC4899" text-anchor="middle">TypeScript</text><rect x="192" y="176" width="74" height="26" rx="13" fill="#0B1B3A" stroke="#7C3AED" stroke-opacity="0.6"/>
+<text x="229" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#EC4899" text-anchor="middle">Tailwind</text><rect x="276" y="176" width="81" height="26" rx="13" fill="#0B1B3A" stroke="#7C3AED" stroke-opacity="0.6"/>
+<text x="316" y="193" font-family="Segoe UI, Verdana, sans-serif" font-size="11.5" fill="#EC4899" text-anchor="middle">shadcn/ui</text>
 </svg>

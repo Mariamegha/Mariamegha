@@ -9,29 +9,29 @@
   THEME CONFIGURATION (see gen_assets.py) — edit the hex values
   there and re-run the script to restyle every asset at once.
 
-  PRIMARY_COLOR      = #05010D  (void black)
-  SECONDARY_COLOR    = #1A0B2E  (deep indigo)
-  ACCENT_COLOR        = #9D4EDD  (violet)
-  ACCENT_COLOR_2      = #C77DFF  (light violet)
-  TEXT_COLOR           = #F4EEFF  (starlight white)
-  MUTED_TEXT_COLOR    = #A9A1C4  (muted lavender)
+  PRIMARY_COLOR      = #020617  (void black)
+  SECONDARY_COLOR    = #0B1B3A  (deep indigo)
+  ACCENT_COLOR        = #7C3AED  (violet)
+  ACCENT_COLOR_2      = #EC4899  (light violet)
+  TEXT_COLOR           = #E2E8F0  (starlight white)
+  MUTED_TEXT_COLOR    = #94A3B8  (muted lavender)
 -->
 
 <a id="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010D,50:1A0B2E,100:9D4EDD&height=230&section=header&text=Maria%20Megha%20L&fontSize=52&fontColor=F4EEFF&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%C2%B7%20Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Chennai%2C%20India&descAlignY=58&descSize=16&descColor=A9A1C4" width="100%" alt="Maria Megha L — Computer Science undergraduate, Full-Stack and AI Engineer, based in Chennai, India" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1B3A,100:7C3AED&height=230&section=header&text=Maria%20Megha%20L&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%C2%B7%20Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Chennai%2C%20India&descAlignY=58&descSize=16&descColor=94A3B8" width="100%" alt="Maria Megha L — Computer Science undergraduate, Full-Stack and AI Engineer, based in Chennai, India" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1200&color=C77DFF&center=true&vCenter=true&width=780&height=40&lines=Building+with+Agentic+AI%2C+RAG+%26+Full-Stack+Systems;DevOps+Intern+%40+Zoho+%C2%B7+SDE+Intern+%40+Amazon;LeetCode+%E2%80%94+Top+11.63%25+Globally+%C2%B7+700%2B+Solved" alt="Rotating headline: Agentic AI and full-stack builder, Zoho and Amazon intern, LeetCode top 11.63 percent" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1200&color=EC4899&center=true&vCenter=true&width=780&height=40&lines=Building+Scalable+Full-Stack+%26+AI+Applications;DevOps+Intern+%40+Zoho+%C2%B7+SDE+Intern+%40+Amazon;LeetCode+%E2%80%94+Top+11.63%25+Globally+%C2%B7+700%2B+Solved" alt="Rotating headline: Full-stack and AI builder, Zoho and Amazon intern, LeetCode top 11.63 percent" />
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-meghalenin2107%40gmail.com-1A0B2E?style=for-the-badge&logo=gmail&logoColor=C77DFF&labelColor=05010D)](mailto:meghalenin2107@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mariamegha-1A0B2E?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=05010D)](https://github.com/Mariamegha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Megha%20L-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=C77DFF&labelColor=05010D)](https://www.linkedin.com/in/maria-megha-l-294a92327/)
+[![Email](https://img.shields.io/badge/Email-meghalenin2107%40gmail.com-0B1B3A?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=020617)](mailto:meghalenin2107@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariamegha-0B1B3A?style=for-the-badge&logo=github&logoColor=EC4899&labelColor=020617)](https://github.com/Mariamegha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Megha%20L-0B1B3A?style=for-the-badge&logo=linkedin&logoColor=EC4899&labelColor=020617)](https://www.linkedin.com/in/maria-megha-l-294a92327/)
 
 </div>
 
@@ -45,12 +45,12 @@
 
 <br/>
 
-I'm **Maria Megha L**, a Computer Science & Engineering undergraduate at **Chennai Institute of Technology** (CGPA **8.6/10**), building agentic AI systems, full-stack platforms, and cloud-native data pipelines.
+I'm **Maria Megha L**, a Computer Science & Engineering undergraduate at **Chennai Institute of Technology** (CGPA **8.6/10**), focused on building robust full-stack products, applied AI solutions, and cloud-native data pipelines.
 
-My work spans **Agentic AI & RAG systems**, **AI-driven statistical processing for government-scale reports**, **forensic intelligence platforms**, and **healthcare automation** — with hands-on internship experience at **Zoho** and **Amazon**.
+My work spans **AI-driven statistical processing for government-scale reports**, **forensic intelligence platforms**, and **healthcare automation** — with hands-on internship experience at **Zoho** and **Amazon**.
 
-- 🔭 Currently building AI-powered platforms combining **LLMs, RAG, and multi-agent workflows**
-- 🧠 Deep interest in **Agentic AI**, **NLP**, and **intelligent automation**
+- 🔭 Currently building AI-powered and full-stack platforms for real-world use cases
+- 🧠 Deep interest in **NLP**, **intelligent automation**, and applied machine learning
 - 🧩 Actively solving on **LeetCode, CodeChef, Codeforces & SkillRack**
 - 🌱 Exploring **cloud-native architectures** on AWS
 - 💬 Open to collaborating on **AI, full-stack, and cloud** projects
@@ -69,62 +69,62 @@ My work spans **Agentic AI & RAG systems**, **AI-driven statistical processing f
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-05010D?style=flat-square&logo=python&logoColor=C77DFF)
-![Java](https://img.shields.io/badge/Java-05010D?style=flat-square&logo=openjdk&logoColor=C77DFF)
-![C++](https://img.shields.io/badge/C++-05010D?style=flat-square&logo=cplusplus&logoColor=C77DFF)
-![C](https://img.shields.io/badge/C-05010D?style=flat-square&logo=c&logoColor=C77DFF)
-![SQL](https://img.shields.io/badge/SQL-05010D?style=flat-square&logo=postgresql&logoColor=C77DFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-05010D?style=flat-square&logo=typescript&logoColor=C77DFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-05010D?style=flat-square&logo=javascript&logoColor=C77DFF)
-![Dart](https://img.shields.io/badge/Dart-05010D?style=flat-square&logo=dart&logoColor=C77DFF)
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=EC4899)
+![Java](https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=EC4899)
+![C++](https://img.shields.io/badge/C++-020617?style=flat-square&logo=cplusplus&logoColor=EC4899)
+![C](https://img.shields.io/badge/C-020617?style=flat-square&logo=c&logoColor=EC4899)
+![SQL](https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=EC4899)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=EC4899)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=EC4899)
+![Dart](https://img.shields.io/badge/Dart-020617?style=flat-square&logo=dart&logoColor=EC4899)
 
 **Web Development**
 
-![React](https://img.shields.io/badge/React.js-05010D?style=flat-square&logo=react&logoColor=C77DFF)
-![Next.js](https://img.shields.io/badge/Next.js-05010D?style=flat-square&logo=nextdotjs&logoColor=C77DFF)
-![Express](https://img.shields.io/badge/Express.js-05010D?style=flat-square&logo=express&logoColor=C77DFF)
-![Flask](https://img.shields.io/badge/Flask-05010D?style=flat-square&logo=flask&logoColor=C77DFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-05010D?style=flat-square&logo=fastapi&logoColor=C77DFF)
-![Node.js](https://img.shields.io/badge/Node.js-05010D?style=flat-square&logo=nodedotjs&logoColor=C77DFF)
-![Three.js](https://img.shields.io/badge/Three.js-05010D?style=flat-square&logo=threedotjs&logoColor=C77DFF)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-05010D?style=flat-square&logo=tailwindcss&logoColor=C77DFF)
+![React](https://img.shields.io/badge/React.js-020617?style=flat-square&logo=react&logoColor=EC4899)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=flat-square&logo=nextdotjs&logoColor=EC4899)
+![Express](https://img.shields.io/badge/Express.js-020617?style=flat-square&logo=express&logoColor=EC4899)
+![Flask](https://img.shields.io/badge/Flask-020617?style=flat-square&logo=flask&logoColor=EC4899)
+![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=EC4899)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=EC4899)
+![Three.js](https://img.shields.io/badge/Three.js-020617?style=flat-square&logo=threedotjs&logoColor=EC4899)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-020617?style=flat-square&logo=tailwindcss&logoColor=EC4899)
 
 **App Development**
 
-![Flutter](https://img.shields.io/badge/Flutter%20SDK-05010D?style=flat-square&logo=flutter&logoColor=C77DFF)
-![Firebase](https://img.shields.io/badge/Firebase-05010D?style=flat-square&logo=firebase&logoColor=C77DFF)
+![Flutter](https://img.shields.io/badge/Flutter%20SDK-020617?style=flat-square&logo=flutter&logoColor=EC4899)
+![Firebase](https://img.shields.io/badge/Firebase-020617?style=flat-square&logo=firebase&logoColor=EC4899)
 
 </td>
 <td valign="top" width="50%">
 
 **AI & Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-05010D?style=flat-square&logo=pytorch&logoColor=C77DFF)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-05010D?style=flat-square&logo=tensorflow&logoColor=C77DFF)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-05010D?style=flat-square&logo=scikitlearn&logoColor=C77DFF)
-![OpenCV](https://img.shields.io/badge/OpenCV-05010D?style=flat-square&logo=opencv&logoColor=C77DFF)
-![LangChain](https://img.shields.io/badge/LangChain-05010D?style=flat-square&logo=langchain&logoColor=C77DFF)
-`RAG` · `LangGraph` · `Generative AI` · `Agentic AI`
+![PyTorch](https://img.shields.io/badge/PyTorch-020617?style=flat-square&logo=pytorch&logoColor=EC4899)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-020617?style=flat-square&logo=tensorflow&logoColor=EC4899)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-020617?style=flat-square&logo=scikitlearn&logoColor=EC4899)
+![OpenCV](https://img.shields.io/badge/OpenCV-020617?style=flat-square&logo=opencv&logoColor=EC4899)
+![LangChain](https://img.shields.io/badge/LangChain-020617?style=flat-square&logo=langchain&logoColor=EC4899)
+`LLM Applications` · `NLP` · `Generative AI` · `Prompt Engineering`
 
 **Backend & Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-05010D?style=flat-square&logo=mongodb&logoColor=C77DFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05010D?style=flat-square&logo=postgresql&logoColor=C77DFF)
-![MySQL](https://img.shields.io/badge/MySQL-05010D?style=flat-square&logo=mysql&logoColor=C77DFF)
-![SQLite](https://img.shields.io/badge/SQLite-05010D?style=flat-square&logo=sqlite&logoColor=C77DFF)
-![DuckDB](https://img.shields.io/badge/DuckDB-05010D?style=flat-square&logo=duckdb&logoColor=C77DFF)
-![Supabase](https://img.shields.io/badge/Supabase-05010D?style=flat-square&logo=supabase&logoColor=C77DFF)
-![Cassandra](https://img.shields.io/badge/Cassandra-05010D?style=flat-square&logo=apachecassandra&logoColor=C77DFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=EC4899)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=EC4899)
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql&logoColor=EC4899)
+![SQLite](https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=EC4899)
+![DuckDB](https://img.shields.io/badge/DuckDB-020617?style=flat-square&logo=duckdb&logoColor=EC4899)
+![Supabase](https://img.shields.io/badge/Supabase-020617?style=flat-square&logo=supabase&logoColor=EC4899)
+![Cassandra](https://img.shields.io/badge/Cassandra-020617?style=flat-square&logo=apachecassandra&logoColor=EC4899)
 
 **System Design & Tools**
 
 `Kafka` · `Redis` · `CDN` · `Microservices` · `HLD & LLD` · `API Design`
 
-![Git](https://img.shields.io/badge/Git-05010D?style=flat-square&logo=git&logoColor=C77DFF)
-![GitHub](https://img.shields.io/badge/GitHub-05010D?style=flat-square&logo=github&logoColor=C77DFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-05010D?style=flat-square&logo=visualstudiocode&logoColor=C77DFF)
-![Postman](https://img.shields.io/badge/Postman-05010D?style=flat-square&logo=postman&logoColor=C77DFF)
-![Slack](https://img.shields.io/badge/Slack-05010D?style=flat-square&logo=slack&logoColor=C77DFF)
+![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=EC4899)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=EC4899)
+![VS Code](https://img.shields.io/badge/VS%20Code-020617?style=flat-square&logo=visualstudiocode&logoColor=EC4899)
+![Postman](https://img.shields.io/badge/Postman-020617?style=flat-square&logo=postman&logoColor=EC4899)
+![Slack](https://img.shields.io/badge/Slack-020617?style=flat-square&logo=slack&logoColor=EC4899)
 
 </td>
 </tr>
@@ -213,7 +213,7 @@ Engineered Python-based executables (`.pyz`) and optimized Site24x7 agent config
 <sub>⚠️ Repo link not confirmed yet — currently points to profile. Send me the real URL to swap in.</sub>
 </td>
 <td width="50%" valign="middle" align="center">
-<a href="https://github.com/Mariamegha?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-1A0B2E?style=for-the-badge&logo=github&logoColor=C77DFF" alt="Explore all repositories" /></a>
+<a href="https://github.com/Mariamegha?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-0B1B3A?style=for-the-badge&logo=github&logoColor=EC4899" alt="Explore all repositories" /></a>
 </td>
 </tr>
 </table>
@@ -244,10 +244,10 @@ Engineered Python-based executables (`.pyz`) and optimized Site24x7 agent config
 
 | Platform | Handle | Highlights |
 |---|---|---|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-05010D?style=flat-square&logo=leetcode&logoColor=C77DFF) | `Maria_Megha_L` | Top **11.63%** globally · **700+** solved · Max rating **1723** · **200+** active days |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-05010D?style=flat-square&logo=codechef&logoColor=C77DFF) | `maria_megha_l` | Div 4 · Country Rank **130874** · **180+** solved · Highest rating **1027** |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-05010D?style=flat-square&logo=codeforces&logoColor=C77DFF) | `Maria_Megha_L` | Rank **107289** · Bronze **43** · **570+** solved · 2 contest top finishes |
-| ![SkillRack](https://img.shields.io/badge/SkillRack-05010D?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=C77DFF) | `CS24CIT0495` | Rank **88210** · Bronze **106** · **272** programs solved · 2 contest top finishes |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-020617?style=flat-square&logo=leetcode&logoColor=EC4899) | `Maria_Megha_L` | Top **11.63%** globally · **700+** solved · Max rating **1723** · **200+** active days |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-020617?style=flat-square&logo=codechef&logoColor=EC4899) | `maria_megha_l` | Div 4 · Country Rank **130874** · **180+** solved · Highest rating **1027** |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-020617?style=flat-square&logo=codeforces&logoColor=EC4899) | `Maria_Megha_L` | Rank **107289** · Bronze **43** · **570+** solved · 2 contest top finishes |
+| ![SkillRack](https://img.shields.io/badge/SkillRack-020617?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=EC4899) | `CS24CIT0495` | Rank **88210** · Bronze **106** · **272** programs solved · 2 contest top finishes |
 
 <br/>
 
@@ -265,12 +265,12 @@ Engineered Python-based executables (`.pyz`) and optimized Site24x7 agent config
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mariamegha&show_icons=true&theme=dark&hide_border=true&bg_color=05010D&title_color=C77DFF&icon_color=9D4EDD&text_color=F4EEFF" alt="Maria Megha L's GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamegha&theme=dark&hide_border=true&background=05010D&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF" alt="Maria Megha L's GitHub streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mariamegha&show_icons=true&theme=dark&hide_border=true&bg_color=020617&title_color=EC4899&icon_color=7C3AED&text_color=E2E8F0" alt="Maria Megha L's GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamegha&theme=dark&hide_border=true&background=020617&ring=7C3AED&fire=EC4899&currStreakLabel=EC4899" alt="Maria Megha L's GitHub streak" height="165" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamegha&layout=compact&theme=dark&hide_border=true&bg_color=05010D&title_color=C77DFF&text_color=F4EEFF" alt="Maria Megha L's most used languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariamegha&layout=compact&theme=dark&hide_border=true&bg_color=020617&title_color=EC4899&text_color=E2E8F0" alt="Maria Megha L's most used languages" height="165" />
 
 </div>
 
@@ -286,9 +286,9 @@ Engineered Python-based executables (`.pyz`) and optimized Site24x7 agent config
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-meghalenin2107%40gmail.com-1A0B2E?style=for-the-badge&logo=gmail&logoColor=C77DFF&labelColor=05010D)](mailto:meghalenin2107@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Mariamegha-1A0B2E?style=for-the-badge&logo=github&logoColor=C77DFF&labelColor=05010D)](https://github.com/Mariamegha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Megha%20L-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=C77DFF&labelColor=05010D)](https://www.linkedin.com/in/maria-megha-l-294a92327/)
+[![Email](https://img.shields.io/badge/Email-meghalenin2107%40gmail.com-0B1B3A?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=020617)](mailto:meghalenin2107@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Mariamegha-0B1B3A?style=for-the-badge&logo=github&logoColor=EC4899&labelColor=020617)](https://github.com/Mariamegha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria%20Megha%20L-0B1B3A?style=for-the-badge&logo=linkedin&logoColor=EC4899&labelColor=020617)](https://www.linkedin.com/in/maria-megha-l-294a92327/)
 
 <br/><br/>
 
@@ -300,4 +300,6 @@ Engineered Python-based executables (`.pyz`) and optimized Site24x7 agent config
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:1A0B2E,100:05010D&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0B1B3A,100:020617&height=140&section=footer" width="100%" alt="" />
+
+
