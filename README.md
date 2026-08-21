@@ -34,7 +34,7 @@
 <a id="about"></a>
 ## About
 
-I am **Maria Megha L**, a Computer Science and Engineering undergraduate at **Chennai Institute of Technology** (CGPA **8.6/10**), focused on building practical and production-ready software.
+I am **Maria Megha L**, a Computer Science and Engineering undergraduate at **Chennai Institute of Technology** (CGPA **8.5/10**), focused on building practical and production-ready software.
 
 I work across full-stack development, AI applications, and cloud-native workflows with strong attention to reliability, performance, and user experience.
 
@@ -112,7 +112,7 @@ Built Python executables and optimized Site24x7 agent configurations to improve 
 
 ## Competitive Programming
 
-- **LeetCode:** Top 11.63% globally, 700+ solved, max rating 1723
+- **LeetCode:** Top 9.72% globally, 700+ solved, max rating 1723
 - **CodeChef:** 180+ solved, highest rating 1027
 - **Codeforces:** 570+ solved with consistent contest participation
 - **SkillRack:** 272 solved programs
