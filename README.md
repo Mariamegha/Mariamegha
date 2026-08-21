@@ -41,7 +41,7 @@ I work across full-stack development, AI applications, and cloud-native workflow
 ### Highlights
 - SDE Internship experience at Amazon (data + web workflow engineering)
 - DevOps Internship experience at Zoho (monitoring and automation)
-- 700+ problems solved on LeetCode with Top 11.63% global standing
+- 700+ problems solved on LeetCode with Top 9.72% global standing
 - Built and shipped multiple academic and product-focused projects
 
 ---
